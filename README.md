@@ -44,3 +44,20 @@ Ziyaurrahman and Team
 - IoT tracking
 - Cloud database
 - Mobile app integration
+## 📸 Project Output
+
+### 🖥 Main Dashboard
+![Main Dashboard](screenshots/Screenshot 2026-03-01 221113.png)
+
+### 🗺 Map & Visualization
+![Map View](screenshots/Screenshot 2026-03-01 221136.png)
+
+### 🚛 Logistics Simulation
+![Logistics 1](screenshots/Screenshot 2026-03-01 221324.png)
+
+![Logistics 2](screenshots/Screenshot 2026-03-01 221347.png)
+
+### 📊 Analytics & Dispatch
+![Analytics 1](screenshots/Screenshot 2026-03-01 221644.png)
+
+![Analytics 2](screenshots/Screenshot 2026-03-01 221703.png)
